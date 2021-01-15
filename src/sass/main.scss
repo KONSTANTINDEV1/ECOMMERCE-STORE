@@ -1,10 +1,18 @@
 @import "./abstracts/fonts";
+@import "./abstracts/typography";
 @import "./base/base";
 
 @import "./pages/homepage.styles.scss";
 
 @import "./components/Directory";
 @import "./components/MenuItem";
-@import "./components/MenuItem";
+
+@import "./components/SignInSignUp";
+@import "./components/SignIn";
+@import "./components/SignIn";
+@import "./components/FormInput";
+@import "./components/CustomButtom";
+
 @import "./components/CollectionPreview";
 @import "./components/CollectionItem";
+@import "./components/Header";
